@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/rusheyes/CAPSTONE/static/css/main.c9c5ca6f.css",
+    "main.js": "/rusheyes/CAPSTONE/static/js/main.087929e0.js",
+    "static/media/main.mp4": "/rusheyes/CAPSTONE/static/media/main.dffc14be98db61fc1015.mp4",
+    "static/media/aboutus-2.jpg": "/rusheyes/CAPSTONE/static/media/aboutus-2.2a72a76a53ac510856b1.jpg",
+    "static/media/aboutus-3.jpg": "/rusheyes/CAPSTONE/static/media/aboutus-3.bdc9e2ddbb7a8bea3677.jpg",
+    "static/media/aboutus-1.jpg": "/rusheyes/CAPSTONE/static/media/aboutus-1.6f77f44ed3f7a8f18e95.jpg",
+    "static/media/logo.png": "/rusheyes/CAPSTONE/static/media/logo.f2927992de15618494e8.png",
+    "static/media/background2.jpg": "/rusheyes/CAPSTONE/static/media/background2.d42673414f0e776e1ccd.jpg",
+    "static/media/profile.jpg": "/rusheyes/CAPSTONE/static/media/profile.2ee46739a6f215a38772.jpg",
+    "static/media/background3.jpg": "/rusheyes/CAPSTONE/static/media/background3.e05d5445ecab2e2f490c.jpg",
+    "index.html": "/rusheyes/CAPSTONE/index.html",
+    "main.c9c5ca6f.css.map": "/rusheyes/CAPSTONE/static/css/main.c9c5ca6f.css.map",
+    "main.087929e0.js.map": "/rusheyes/CAPSTONE/static/js/main.087929e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9c5ca6f.css",
+    "static/js/main.087929e0.js"
+  ]
+}
