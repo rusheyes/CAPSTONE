@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/CAPSTONE/static/css/main.d96f75af.css",
-    "main.js": "/CAPSTONE/static/js/main.bd6354f6.js",
+    "main.css": "/CAPSTONE/static/css/main.a7f64778.css",
+    "main.js": "/CAPSTONE/static/js/main.ed0a7a23.js",
     "static/media/submain.mp4": "/CAPSTONE/static/media/submain.60a39fde50990e569913.60a39fde50990e569913.mp4",
     "static/media/main.mp4": "/CAPSTONE/static/media/main.dffc14be98db61fc1015.mp4",
     "static/media/aboutus-2.jpg": "/CAPSTONE/static/media/aboutus-2.2a72a76a53ac510856b1.jpg",
@@ -9,13 +9,14 @@
     "static/media/aboutus-1.jpg": "/CAPSTONE/static/media/aboutus-1.6f77f44ed3f7a8f18e95.jpg",
     "static/media/logo.png": "/CAPSTONE/static/media/logo.f2927992de15618494e8.png",
     "static/media/background2.jpg": "/CAPSTONE/static/media/background2.d42673414f0e776e1ccd.jpg",
+    "static/media/profile.jpg": "/CAPSTONE/static/media/profile.2ee46739a6f215a38772.jpg",
     "static/media/background3.jpg": "/CAPSTONE/static/media/background3.e05d5445ecab2e2f490c.jpg",
     "index.html": "/CAPSTONE/index.html",
-    "main.d96f75af.css.map": "/CAPSTONE/static/css/main.d96f75af.css.map",
-    "main.bd6354f6.js.map": "/CAPSTONE/static/js/main.bd6354f6.js.map"
+    "main.a7f64778.css.map": "/CAPSTONE/static/css/main.a7f64778.css.map",
+    "main.ed0a7a23.js.map": "/CAPSTONE/static/js/main.ed0a7a23.js.map"
   },
   "entrypoints": [
-    "static/css/main.d96f75af.css",
-    "static/js/main.bd6354f6.js"
+    "static/css/main.a7f64778.css",
+    "static/js/main.ed0a7a23.js"
   ]
 }
